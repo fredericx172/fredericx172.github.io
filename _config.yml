@@ -1,10 +1,10 @@
-title:             Square Zero
-email:             sssurajsuraj@gmail.com
-description:       Silent Observations
-author:            J
+title:             Glimpse of The Past
+email:             freddyxiong02@gmail.com
+description:       Observing the future, learning the past.
+author:            Frederic Xiong
 #url:               "localhost:4000"
-url:               "http://squarezero.github.io/"
-baseurl:
+url:               "Glimpseofthepast.org"
+baseurl:           "Glimpseofthepast.org"
 
 # Social Profiles
 #twitter_username:  SBootstrap
